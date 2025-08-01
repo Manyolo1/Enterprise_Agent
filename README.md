@@ -10,3 +10,5 @@ This Flutter app is the frontend client for an enterprise-level RAG (Retrieval-A
 = Use a clean, chat-style interface optimized for productivity
 
 <img src="demo.JPG" width="400"/>
+
+Demo: //youtube link
