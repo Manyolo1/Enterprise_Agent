@@ -9,4 +9,4 @@ This Flutter app is the frontend client for an enterprise-level RAG (Retrieval-A
 - Upload and manage documents & handwritten notes for retrieval
 = Use a clean, chat-style interface optimized for productivity
 
-<img src="images/screenshot.png" alt="App UI" width="600"/
+<img src="demo.JPG" alt="App UI" width="600"/
