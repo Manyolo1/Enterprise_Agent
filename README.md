@@ -1,16 +1,14 @@
-# mokshayani
+# Enterprise_Agent
+An enterprise-grade Retrieval-Augmented Generation (RAG) interface built in **Flutter**.
+Connects your business data to an LLM backend for contextualized, secure, and real-time insights.
+ 
 
-A new Flutter project.
+This Flutter app is the frontend client for an enterprise-level RAG (Retrieval-Augmented Generation) system. It enables employees or clients to:
+- Query private organizational knowledge
+- Get AI-generated responses with context-aware document citations
+- Upload and manage documents & handwritten notes for retrieval
+= Use a clean, chat-style interface optimized for productivity
 
-## Getting Started
+<img src="demo.JPG" width="400"/>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Demo: //youtube link
